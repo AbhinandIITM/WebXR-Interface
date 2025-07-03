@@ -33,7 +33,7 @@ This project is a WebXR-based VR interface using [Three.js](https://threejs.org/
 1. **Clone this repo** (or copy the files):
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/AbhinandIITM/WebXR-Interface.git)
 cd <your-project-folder>
 
 ```
