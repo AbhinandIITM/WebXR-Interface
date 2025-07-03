@@ -95,8 +95,3 @@ adb reverse tcp:8081 tcp:8081
         index.mjs
 ```
 ---
-
-📜 License
-----------
-
-MIT – free to use and modify.
